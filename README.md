@@ -2,4 +2,5 @@
 1°TP de Programación: Presentación del grupo 
 Nombre y Apellido: Yanina Reta Rojas
 Nombre y Apellido:María Alejandra García Contreras 
-Nombre y Apellido:
+Nombre y Apellido:Analia Anahi Pellicer Palacios
+
